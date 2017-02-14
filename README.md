@@ -1,14 +1,14 @@
-# Future Me
+# Future Me (Client)
 This is the final project for the Nov -16 cohort from Craft Academy Bootcamp.
 
 ### Pivotal Tracker
 [Pivotal](https://www.pivotaltracker.com/n/projects/1968195)
 
 ### Build
-[![Build Status](Travis URL)
+[add build status here]
 
 ### Coverage
-[![Coverage Status](Coveralls URL)
+[add coverage badge her]
 
 ## Getting Started
 
@@ -20,56 +20,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Fork and clone repo, then run:
-```
-$ bundle install
-```
-
-And then:
-
-```
-$rake db:migrate db:seed
-```
+[Add instruction to setup the project for developers]
 
 ## Running the tests
 
-End with an example of getting some data out of the system or using it for a little demo
-
-```
-$ rake
-```
-
-## Deployment
-
-We are using [Travis](https://travis-ci.org) for continous integration and Heroku](http://heroku.com/) for deployment.
-
-For deployment, change the information in the `.travis.yml` file. For API-key;
-
-```
-$ travis encrypt $(heroku auth:token) —add deploy.api_key
-```
-
-### Deployed at [https://homechefs.herokuapp.com/](https://homechefs.herokuapp.com/)
+[Add instructions to run test suite - if any, otherwise remove this section]
 
 ## Built With
 
   * [Travis](https://travis-ci.org) - Used for continous integration
-  * [Coveralls](https://coveralls.io) - To track code coverage
-  * [Heroku](http://heroku.com/) - For deployment
-  * [Ruby on Rails](http://rubyonrails.org) — Web Framework
-
-For testing purposes we used:
-
-  <!-- * Pry
-  * Pry-byebug
-  * Rspec-rails
-  * Shoulda-matchers
-  * Factory_girl_rails
-  * Cucumber-rails
-  * Database_cleaner
-  * Capybara
-  * Capybara-screenshot
-  * Poltergeist -->
+  * Add more...
 
 ## Authors
   * **Craft Academy** - [CraftAcademy](https://github.com/CraftAcademy)
